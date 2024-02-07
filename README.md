@@ -63,7 +63,7 @@ una mini tabella per salvare tutte le persone con il campo desiretao (ex: tutte 
 
 sono compresi diversi metodi collegati e derivanti dal file XAML, questi permettono l'implementazioni di diverse funzioni in base a cambiamenti attuati nella finestra
 
-cambio di casella:
+**cambio di casella:**
 ~~~C#
 private void dgDati_SelectionChanged(object sender, SelectionChangedEventArgs e)
 {
